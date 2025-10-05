@@ -19,7 +19,7 @@ This advanced data analysis project uncovers potential unreported or illicit tra
 ### Installation
 ```bash
 git clone https://github.com/Kabelo-ops-code/black-market-analysis.git
-cd black_market_analysis
+cd black-market-analysis
 pip install -r requirements.txt
 
 **### Basic Usage**
@@ -53,4 +53,5 @@ black_market_analysis/
 └── outputs/             # Generated outputs
     ├── reports/         # Excel and JSON reports
     └── charts/          # Visualization images
+
 
